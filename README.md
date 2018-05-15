@@ -1,4 +1,4 @@
 # node-todo
 
-simple todo app, I created to learn node, webpack and mongoDb.  
+simple todo appI created to learn node, webpack and mongoDb.  
 
